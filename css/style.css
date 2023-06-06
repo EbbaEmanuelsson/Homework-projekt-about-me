@@ -123,8 +123,12 @@ img {
     text-align: center;
   }
 
+  footer {
+    margin-bottom: 30px;
+  }
+
   .hello {
-    font-size: 38px;
+    font-size: 34px;
   }
 
   .row{
